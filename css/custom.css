@@ -1,6 +1,7 @@
 /********** common setting **********/
 html, body {
     scroll-behavior: smooth;
+    width: 100%;
 }
 
 h2 {
